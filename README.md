@@ -110,9 +110,6 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash0807&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Ash0807" align="right" />
 </a>
 
-</div>
-<p align = "center">
-  <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ash0807&theme=github_dark" /></a>
-</p>
+
 
 
