@@ -112,7 +112,7 @@
 
 </div>
 <p align = "center">
-  <img width = "100%" height ="330" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ash0807&theme=github_dark" /></a>
+  <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ash0807&theme=github_dark" /></a>
 </p>
 
 
