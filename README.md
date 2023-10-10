@@ -14,8 +14,8 @@
 
   
   <a href="https://github.com/Ash0807?tab=repositories&sort=forks">
-  <img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Ash0807"> </a>
-  <img src="https://img.shields.io/github/followers/ash0807?label=Followers&style=social" width="140" height="28" alt="GitHub Badge"> 
+  <img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Ash0807" > </a>
+  <img src="https://img.shields.io/github/followers/Ash0807?label=Followers&style=social" width="140" height="28" alt="GitHub Badge"> 
 </p>
 
 
