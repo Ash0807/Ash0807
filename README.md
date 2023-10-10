@@ -13,7 +13,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ash0807"/></a>
 
   
-  <a href="https://github.com/Ash0807?tab=repositories&sort=forks">
+  <a href="https://github.com/Ash0807?tab=repositories&q=&type=fork&language=&sort=">
   <img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Ash0807" > </a>
   <img src="https://img.shields.io/github/followers/Ash0807?label=Followers&style=social" width="140" height="28" alt="GitHub Badge"> 
 </p>
@@ -109,6 +109,11 @@
 <a href="#Ash0807-title">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash0807&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Ash0807" align="right" />
 </a>
+
+</div>
+<p align = "center">
+  <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ash0807&theme=github_dark" /></a>
+</p>
 
 
 
