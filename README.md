@@ -2,9 +2,21 @@
 <h3 align="center">A passionate Front-End Developer and a Open Source Contributor.</h3>
 <h3 align="center">Ex-Intern : Tata Motors</h3>
 
-<a href="https://github.com/ash0807"><img width="30%" height="90" align="right" src="https://camo.githubusercontent.com/893fba17b3a2b52c4235562bdea23d94ab2ef7674f9f2c25f467a5936001ad4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4950684c355a767a76634756576d6c3731522f67697068792e676966" /></a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ash0807&label=Profile%20views&color=0e75b6&style=flat" alt="ash0807"/> <img src="https://img.shields.io/github/followers/ash0807?label=Followers&style=social" alt="GitHub Badge"></p> 
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ash0807&label=Profile%20views&color=0e75b6&style=flat" width="158" height="28" alt="ash0807"/>
+ <a href="https://github.com/Ash0807?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>  
+  
+  
+  <a href="https://github.com/Ash0807?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ash0807"/></a>
+
+  
+  <a href="https://github.com/Ash0807?tab=repositories&sort=forks">
+  <img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Ash0807"> </a>
+  <img src="https://img.shields.io/github/followers/ash0807?label=Followers&style=social" width="140" height="28" alt="GitHub Badge"> 
+</p>
 
 
 
@@ -34,6 +46,7 @@
 - 📫 How to reach me ashishmishrapk@gmail.com
   
 - 📑 Know about my experiences [click here](https://drive.google.com/file/d/1D00GXyy5DkZB7S5vSs0ykSCELMksU8PU/view?usp=sharing) <br>
+
 
 ## Connect with me:
 
@@ -89,9 +102,6 @@
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash0807&theme=highcontrast&hide_border=false)<br/>
 
-</div>
-
-
 <a href="#Ash0807-title">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ash0807&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="Ash0807" align="left" />
 </a>
@@ -99,3 +109,10 @@
 <a href="#Ash0807-title">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash0807&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Ash0807" align="right" />
 </a>
+
+</div>
+<p align = "center">
+  <img width = "100%" height ="330" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ash0807&theme=github_dark" /></a>
+</p>
+
+
