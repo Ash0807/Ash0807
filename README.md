@@ -31,7 +31,7 @@
 
 - 👯 I’m hoping to collaborate on more `Open-source Projects`.
 
-- ✌️ I have been contributing at [HacktoberFest'23](https://www.holopin.io/@ash0807#)
+- ✌️ I have been contributing at [SWOC'24](https://hack2skill.com/dashboard/)
 
 - 🌱 I’m currently mastering `React` and `MongoDB`.
 
