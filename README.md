@@ -43,7 +43,7 @@
   
 - 📫 How to reach me ashishmishrapk@gmail.com
   
-- 📑 Know about my experiences [click here](https://drive.google.com/file/d/1InFhCGeC5kuGBwzOvovQgo0SRhEBPtlz/view?usp=drive_link) <br>
+- 📑 Know about my experiences [click here](http://tinyurl.com/bdhdu6sw) <br>
 
 
 ## Connect with me:
