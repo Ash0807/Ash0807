@@ -23,8 +23,7 @@
 
 
 ## I'm a CSE Final Year Student!!
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/c4162d8841f045cdb44d513d43db05bf.png?r=u7e"  width="270" align="right" alt="Ashish Mishra's Dev Card"/></a>
-
+<a href="https://app.daily.dev/legendinwarrior"><img src="https://api.daily.dev/devcards/v2/kTYvopmtUkQexdmvP8c3j.png?type=default&r=utx"  width="270" align="right" alt="Ashish Mishra's Dev Card"/></a>
 - 🌱 I’m currently learning DSA and Web Development
   
 - 🔭 I’m currently working on Frontend Projects & Tools
