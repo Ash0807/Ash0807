@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ashish Mishra  💻👨‍💻</h1>
 <h3 align="center">A passionate Front-End Developer and a Open Source Contributor.</h3>
-<h3 align="center">Ex-Intern : Tata Motors</h3>
+<h3 align="center">Technical Trainer - W3 Grads</h3>
 
 
 
