@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ashish Mishra  💻👨‍💻</h1>
-<h3 align="center">A passionate Front-End Developer and a Open Source Contributor.</h3>
-<h3 align="center">Technical Trainer - W3 Grads</h3>
+<h3 align="center">I am passionate Front-End Developer and a Open Source Contributor.</h3>
+<h3 align="center">Technical Trainer - Certed Technology </h3>
 
 
 
@@ -92,9 +92,6 @@
 <br>
 
 ## 📊Github Summary: 
-
-<p><a href="https://quine.sh?utm_source=widgets&utm_campaign=Ash0807"><img align="center" height="290" width="150%" src="https://stats.quine.sh/Ash0807/github?theme=dark"/></a>
-
 <div id="github_stats" align="center">
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash0807&theme=highcontrast&hide_border=false)<br/>
@@ -111,8 +108,3 @@
 <p align = "center">
   <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ash0807&theme=radical" /></a>
 </p>
-
-
-
-
-
