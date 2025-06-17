@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Ashish Mishra  💻👨‍💻</h1>
-<h3 align="center">I am passionate Front-End Developer and a Open Source Contributor.</h3>
+<h3 align="center">I am passionate Teacher and a Open Source Contributor.</h3>
 <h3 align="center">Technical Trainer - Certed Technology </h3>
 
 
@@ -22,7 +22,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
-## I'm a CSE Final Year Student!!
+## Working as a Technical Trainer!!
 <a href="https://app.daily.dev/legendinwarrior"><img src="https://api.daily.dev/devcards/v2/kTYvopmtUkQexdmvP8c3j.png?type=default&r=utx"  width="270" align="right" alt="Ashish Mishra's Dev Card"/></a>
 - 🌱 I’m currently learning DSA and Web Development
   
