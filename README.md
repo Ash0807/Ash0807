@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ashish Mishra  💻👨‍💻</h1>
-<h3 align="center">I am passionate Teacher and a Open Source Contributor.</h3>
-<h3 align="center">Technical Trainer - Certed Technology </h3>
+<h3 align="center">I am passionate Tech Educator and a Open Source Contributor.</h3>
+<h3 align="center">Technical Trainer - ITS Engineering College </h3>
 
 
 
@@ -24,13 +24,13 @@
 
 ## Working as a Technical Trainer!!
 <a href="https://app.daily.dev/legendinwarrior"><img src="https://api.daily.dev/devcards/v2/kTYvopmtUkQexdmvP8c3j.png?type=default&r=utx"  width="270" align="right" alt="Ashish Mishra's Dev Card"/></a>
-- 🌱 I’m currently learning DSA and Web Development
+- 🌱 I’m delivering sessions in different languages along with DSA
   
 - 🔭 I’m currently working on Frontend Projects & Tools
 
 - 👯 I’m hoping to collaborate on more `Open-source Projects`.
 
-- ✌️ I have been contributing at [SWOC'24](https://hack2skill.com/dashboard/)
+- ✌️ I have been contributed at [SWOC'24](https://hack2skill.com/dashboard/)
 
 - 🌱 I’m currently mastering `React` and `MongoDB`.
 
@@ -42,7 +42,7 @@
   
 - 📫 How to reach me ashishmishrapk@gmail.com
   
-- 📑 Know about my experiences [click here](https://drive.google.com/file/d/1KX8cFvaGz6oKY_7NOQfY01e0_W0pQwov/view?usp=drive_link) <br>
+- 📑 Know about my experiences [click here](https://drive.google.com/file/d/1xSgksvHtteMpsEykjCaMgcElZ6OH4k7T/view?usp=drive_link) <br>
 
 
 ## Connect with me:
