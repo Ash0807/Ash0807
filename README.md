@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Ashish Mishra  💻👨‍💻</h1>
-<h3 align="center">I am passionate Tech Educator and a Open Source Contributor.</h3>
+<h3 align="center">I am passionate Tech Educator and Open Source Contributor</h3>
 <h3 align="center">Technical Trainer - ITS Engineering College </h3>
 
 
